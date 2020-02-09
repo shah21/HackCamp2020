@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "bcrypt": "^3.0.8",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.5.2",
+    "morgan": "^1.9.1",
+    "uniqid": "^5.2.0"
+  },
+  "name": "car-rental",
+  "version": "1.0.0",
+  "description": "Car Rental App",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Team V0id",
+  "license": "ISC"
+}
